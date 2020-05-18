@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "fs": "0.0.1-security",
     "jwt-decode": "^2.2.0"
   }
 }
