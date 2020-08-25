@@ -1,6 +1,6 @@
 {
   "name": "snowsignals-api",
-  "version": "1.0.0",
+  "version": "1.0.0.01",
   "description": "Access to the SnowSignals Platform",
   "main": "./lib/index.js",
   "scripts": {
