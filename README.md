@@ -3,7 +3,10 @@ snowsignals-api
 see also 
 http://snowsignals.com:3333/apidocs 
 
-snowsignals-api is a nodeJS library of functions with which to call upon the Snowsignals API.
+[latest unstable version](https://github.com/snowkidind/snowsignals-api)
+https://github.com/snowkidind/snowsignals-api
+
+**snowsignals-api** is a nodeJS library of functions with which to call upon the Snowsignals API.
 
 To initialize the api with your refresh token: 
 
