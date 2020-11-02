@@ -23,13 +23,13 @@ connect to the api and get a basic analysis:
 
 ```  
   const options = {
-    params: {
-      f: 'eth',
-      t: 'btc',
-      e: 'coinbase',
-      i: 'd',
-      emaslowemaw: 40,
-    }
+
+    f: 'eth',
+    t: 'btc',
+    e: 'coinbase',
+    i: 'd',
+    emaslowemaw: 40,
+    
   };
 
   snowSignals.analysis(options)
